@@ -1,2 +1,6 @@
 # Diabetes-Prediction-
-Diabetes Prediction using PIMA Kaggle Dataset
+The motivation behind this project is to recreate and contribute to the results of the research paper "Application of Machine Learning Models for Early Detection and Accurate Classification of Type 2 Diabetes" by the Technical University of Peru. The primary focus is to streamline their results while exploring improved methodologies and algorithms specifically tailored to the problem of diabetes detection. In this replication, particular attention is placed on reducing false negatives, as this metric holds significant importance in the context of medical diagnostics. False negatives—cases where individuals with diabetes are misclassified as non-diabetic—can lead to missed diagnoses, delaying critical interventions and increasing the risk of severe complications such as cardiovascular disease, kidney failure, and blindness. By prioritizing recall (sensitivity) over overall accuracy, the project aims to ensure that more diabetic cases are identified, even if it slightly increases the number of false positives.
+
+Research Paper that I'm recreating https://pmc.ncbi.nlm.nih.gov/articles/PMC10378239/
+
+Dataset: https://www.kaggle.com/datasets/mathchi/diabetes-data-set
